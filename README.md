@@ -1,5 +1,5 @@
 # CODSOFT-Task2 Titanic Survival Prediction
-name: Hetanshi Acharya
+name: shraddha ruhela
 Batch: July
 Domain: Data Science
 
